@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Esma.
+I’m currently learning data analysis.
+
 
 <!--
 **esmanuray/esmanuray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
