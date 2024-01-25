@@ -1,6 +1,10 @@
 ### Hi there 👋
 My name is Esma.
 I’m currently learning data analysis.
+----------------------------------
+www.linkedin.com/in/esmanuraybaylan
+
+
 
 
 <!--
