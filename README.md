@@ -25,10 +25,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/esmanuray/esmanuray/output/snake.svg" alt="Snake animation" />
-
-###
