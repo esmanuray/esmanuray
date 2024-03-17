@@ -1,4 +1,4 @@
-![github-user-contribution](https://github.com/esmanuray/esmanuray/assets/116032258/728387d4-bada-4f9a-8898-39b7dabb8fee)<h3 align="left">Hi there 👋<br>My name is Esma. I’m currently learning data science.</h3>
+<h3 align="left">Hi there 👋<br>My name is Esma. I’m currently learning data science.</h3>
 
 ###
 
@@ -27,5 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+![github-user-contribution](https://github.com/esmanuray/esmanuray/assets/116032258/728387d4-bada-4f9a-8898-39b7dabb8fee)
 
 
