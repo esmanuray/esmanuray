@@ -1,16 +1,25 @@
-## Hi there 👋
+# Esma Nuray Baylan
 
-<!--
-**esmanuray/esmanuray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am a Computer Engineer; I work in backend development and data engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Backend Development (Spring Boot)
+- Data Engineering
+- Real-Time Streaming (Kafka, Spark)
+- Time-Series Data Analytics
+
+## Tech Stack
+- Java (Spring Boot), Python, SQL  
+- Apache Kafka, Apache Spark  
+- PostgreSQL, TimescaleDB  
+- Docker, Git, Linux  
+- Grafana, Streamlit
+
+
+
+## Current Focus
+- Spring Boot–based backend services
+- End-to-end data streaming pipelines
+- System performance and latency analysis
